@@ -1,9 +1,9 @@
 <div align="left">
-  <img src="assets/sofi-heading.svg" alt="hi, i'm sofi! ♡" height="45"><br><br>
-  <img src="assets/pink-heart-border.gif" alt="pink heart border" height="25">
+  <img src="assets/sofi-heading.svg" alt="hi, i'm sofi! ♡" height="40"><br><br>
+  <img src="assets/pink-heart-border.gif" alt="pink heart border" height="20">
 </div><br>
 
-<p> ♡ 25 • student • pink-coded designer learning to blend creativity & code, with an interest in cybersec </p>
+<p> ♡ 25 • student • pink-coded designer learning to blend creativity & code, with an interest in cybersec. </p>
 
 <h2 align="left">── ✿ experience </h2>
 <div align="left">
