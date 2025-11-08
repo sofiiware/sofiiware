@@ -5,7 +5,7 @@
 
 <p> ♡ 25 • student • pink-coded designer learning to blend creativity & code, with an interest in cybersec </p>
 
-<h2 align="left">── ✿ skills </h2>
+<h2 align="left">── ✿ experience </h2>
 <div align="left">
   <img src="https://cdn.simpleicons.org/python/ffb3d3"       height="36" alt="Python"/>
   <img src="https://cdn.simpleicons.org/html5/ffb3d3"        height="36" alt="HTML5"/>
